@@ -1,9 +1,5 @@
 # Hi, I'm Mani Must
-
-Senior Software Engineer with 7+ years of experience building scalable, production-grade systems across backend, frontend, AI/ML and cloud platforms.  
-I specialize in designing strong backend architectures, clean frontend experiences and intelligent systems that scale reliably in real-world production.
-
-I enjoy solving complex problems, modernizing legacy systems, leading technical decisions and mentoring engineers while shipping high-impact features.
+**Legally authorized to work in the US for any employer without any Visa sponsorship**. Senior Software Engineer with 7+ years of experience building scalable, production-grade systems across backend, frontend, AI/ML and cloud platforms. I specialize in designing strong backend architectures, clean frontend experiences and intelligent systems that scale reliably in real-world production. I enjoy solving complex problems, modernizing legacy systems, leading technical decisions and mentoring engineers while shipping high-impact features.
 
 ---
 
