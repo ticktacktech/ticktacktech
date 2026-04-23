@@ -90,6 +90,7 @@ Healthcare · Education · Finance · Web3 · SaaS Platforms · Enterprise Syste
 ## Let’s Connect
 
 **Email:** ozman.eng@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/ozman-m-9189a11a4/
 **GitHub:** https://github.com/ticktacktech  
 
 Always open to discussing engineering, architecture, AI systems and impactful product ideas.
